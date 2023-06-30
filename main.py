@@ -19,7 +19,7 @@ import vk_api
 
 
 bot = telebot.TeleBot('')
-openai.api_key = "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"
+openai.api_key = ""
 
 #https://oauth.vk.com/authorize?client_id=&redirect_uri=https://api.vk.com/blank.html&scope=offline.wall&response_type=token
 
